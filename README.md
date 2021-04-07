@@ -9,13 +9,13 @@
 ## **About Me:**
 <h2 align = "center"> Gamer • Java • C/C++ </h2>
 
-
+<!--
 ## **Github Streak:**
 <p align = "center">
   <img src = "https://github-readme-streak-stats.herokuapp.com/?user=someshcr7&line_height=40&theme=default">
 </p>
 
----
+-->
 
 ## **Github Stats:**
 
