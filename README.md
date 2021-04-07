@@ -1,17 +1,29 @@
-### Hi there 👋
-
-<!--
-**somesh10219/somesh10219** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ... something
-- 🌱 I’m currently learning ...something
-- 👯 I’m looking to collaborate on ...something
-- 🤔 I’m looking for help with ...something
-- 💬 Ask me about ...something
-- 📫 How to reach me: ...something
-- 😄 Pronouns: ...something
-- ⚡ Fun fact: ...something
+<h1 align="center"> Hi Somesh Here ॐ</h1>
+<!-- <img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/> 
+<p align="center"> 
+  Visitors count<br>
+  <img src="https://profile-counter.glitch.me/someshcr7/count.svg" />
+</p>
 -->
-hello !
+
+## **About Me:**
+<h2 align = "center"> Gamer • Java • C/C++ </h2>
+
+
+## **Github Streak:**
+<p align = "center">
+  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=someshcr7&line_height=40&theme=default">
+</p>
+
+---
+
+## **Github Stats:**
+
+<p align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=someshcr7&hide=stars&show_icons=true&line_height=48&theme=default">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=someshcr7&count_private=true&line_height=40&theme=default">
+
+</p>
+
+---
